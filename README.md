@@ -1,19 +1,19 @@
 <!--
-  ██████╗ ██████╗  █████╗  ██████╗  ██████╗ ███╗   ██╗       ██████╗  ██╗
-  ██╔══██╗██╔══██╗██╔══██╗██╔════╝ ██╔═══██╗████╗  ██║      ██╔═████╗███║
-  ██║  ██║██████╔╝███████║██║  ███╗██║   ██║██╔██╗ ██║█████╗██║██╔██║╚██║
-  UNIT: DRAGON-01  //  CALLSIGN: CHARIZARD  //  STATUS: DEPLOYED
+  UNIT: DRAGON-01  //  CALLSIGN: PRINCII  //  STATUS: DEPLOYED
   GitHub profile README for github.com/PriyanshuMishra27
 -->
 
 <!-- ===================== HEADER BANNER (animated) ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a00,45:ff4d00,100:ffb300&height=220&section=header&text=PRIYANSHU%20MISHRA&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=UNIT%20DRAGON-01%20%2F%2F%20CALLSIGN%3A%20CHARIZARD%20%2F%2F%20STATUS%3A%20DEPLOYED&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Priyanshu Mishra banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a00,45:ff4d00,100:ffb300&height=220&section=header&text=PRIYANSHU%20MISHRA&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=UNIT%20DRAGON-01%20%2F%2F%20CALLSIGN%3A%20PRINCII%20%2F%2F%20STATUS%3A%20DEPLOYED&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Priyanshu Mishra banner" />
+
+<!-- ===================== TANK CONVOY (animated, rolls across) ===================== -->
+<img src="./assets/tank-convoy.svg" width="100%" alt="tank convoy" />
 
 <!-- ===================== TYPING READOUT (animated) ===================== -->
 <a href="https://github.com/PriyanshuMishra27">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=FF5E00&center=true&vCenter=true&width=720&height=45&lines=%3E+Booting+DRAGON-01+...+systems+online;AI+%26+Data+Science+%40+IIT+Jodhpur;Systems+Engineer+%2F%2F+Automation+Operative;I+read+about+tanks+for+fun+%F0%9F%94%A5;I+make+things+out+of+2am+thoughts+-+and+they+work" alt="typing readout" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=FF5E00&center=true&vCenter=true&width=720&height=45&lines=%3E+Booting+DRAGON-01+...+systems+online;AI+%26+Data+Science+%40+IIT+Jodhpur;Systems+Engineer+%2F%2F+Automation+Operative;I+read+about+tanks+for+fun;I+make+things+out+of+2am+thoughts+-+and+they+work" alt="typing readout" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@
 ```ansi
 ╔══════════════════════════════ CLASSIFIED DOSSIER ══════════════════════════════╗
 ║  OPERATIVE  : PRIYANSHU MISHRA                                                  ║
-║  CALLSIGN   : CHARIZARD  (fire/flying — evolves under pressure)                 ║
+║  CALLSIGN   : PRINCII  (fire/flying — evolves under pressure)                   ║
 ║  BASE       : Delhi, India  //  DEPLOYED: Mumbai (remote)                       ║
 ║  UNIT       : IIT Jodhpur — AI & Data Science  (2025 → 2029)                    ║
 ║  ROLE       : Operations & Technology Intern Lead @ Digital Alchemy            ║
@@ -48,18 +48,18 @@
 
 </div>
 
-## 🐉 `> whoami`
+## `> whoami`
 
 I build things out of 2am thoughts and somehow end up fixing systems nobody asked me to touch. I don't know everything, but I usually know enough to be **dangerously confident** in conversations about military, geopolitics, and why your process is inefficient. I convince computers to move data so humans don't have to — and I build things that survive longer than my sleep schedule.
 
-- 🎯 **Currently:** Operations & Technology Intern **Lead** @ Digital Alchemy Technology — triaging incidents, killing bottlenecks, and turning ad‑hoc fixes into repeatable systems.
-- 🛰️ **Focus areas:** systems engineering, communication systems, computer simulations, swarm / autonomous platforms.
-- 🔧 **Range:** comfortable moving between Python, TypeScript, and C++ — and between talking to data and talking to people.
-- 📚 **Also grinding:** Harvard CS50x · MIT 6.006 (Algorithms) · MIT Missing Semester.
+- **[ CURRENT ]** Operations & Technology Intern **Lead** @ Digital Alchemy Technology — triaging incidents, killing bottlenecks, and turning ad‑hoc fixes into repeatable systems.
+- **[ FOCUS ]** Systems engineering, communication systems, computer simulations, swarm / autonomous platforms.
+- **[ RANGE ]** Comfortable moving between Python, TypeScript, and C++ — and between talking to data and talking to people.
+- **[ TRAINING ]** Harvard CS50x · MIT 6.006 (Algorithms) · MIT Missing Semester.
 
 ---
 
-## 🔥 Arsenal
+## Arsenal
 
 <div align="center">
 
@@ -80,7 +80,7 @@ I build things out of 2am thoughts and somehow end up fixing systems nobody aske
 
 ---
 
-## 🎖️ Field Operations `// selected projects`
+## Field Operations `// selected projects`
 
 > **MFHSS — Multi-Frequency-Hopping Spread-Spectrum Swarm**
 > Adaptive anti‑jamming frequency‑hopping engine for a simulated drone swarm. Spectrum‑sensing, jammer, and adaptive hopset modules over a multi‑node UDP mesh (HQ · master · leader · drones) with live PSD/packet visualization. Same engine also drives a generative‑music demo, *Swarm Symphony*.
@@ -98,7 +98,7 @@ I build things out of 2am thoughts and somehow end up fixing systems nobody aske
 
 ---
 
-## 📡 Combat Telemetry
+## Combat Telemetry
 
 <div align="center">
 
@@ -117,7 +117,7 @@ I build things out of 2am thoughts and somehow end up fixing systems nobody aske
 
 ---
 
-## 📈 Threat Activity Graph
+## Threat Activity Graph
 
 <div align="center">
 
@@ -129,7 +129,7 @@ I build things out of 2am thoughts and somehow end up fixing systems nobody aske
 
 <div align="center">
 
-### 🔥 *"You may find me building things that survive longer than my sleep schedule."*
+### *"You may find me building things that survive longer than my sleep schedule."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,55:ff4d00,100:2b0a00&height=120&section=footer" width="100%" alt="footer" />
 
