@@ -102,16 +102,7 @@ I build things out of 2am thoughts and somehow end up fixing systems nobody aske
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PriyanshuMishra27&show_icons=true&hide_border=true&title_color=ff4d00&icon_color=ffb300&text_color=ffffff&bg_color=0d0d0d&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuMishra27&layout=compact&hide_border=true&title_color=ff4d00&text_color=ffffff&bg_color=0d0d0d&langs_count=8" alt="top langs" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=PriyanshuMishra27&hide_border=true&background=0d0d0d&ring=ff4d00&fire=ffb300&currStreakLabel=ff4d00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PriyanshuMishra27&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
 
 </div>
 
